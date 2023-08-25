@@ -28,3 +28,9 @@ To run project use just one bottom line
 ```
 ![](https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white)
 ```bash
+  yarn run dev
+```
+![](https://img.shields.io/badge/Bun-000000.svg?style=for-the-badge&logo=Bun&logoColor=white)
+```bash
+  bun run dev
+```
