@@ -1,0 +1,12 @@
+.userPhoto{
+    width: 60px;
+    height: 60px;
+}
+.headerBtn{
+    background-color: var(--blue) !important;
+}
+.searchBox>input:focus{
+    outline: none;
+    box-shadow: none;
+    border: none;
+}

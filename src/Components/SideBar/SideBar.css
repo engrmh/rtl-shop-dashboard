@@ -1,0 +1,10 @@
+.sidebar-wrapper{
+    background-color: var(--blue) !important;
+    height: 100vh;
+}
+.sidebarMenuLink:hover{
+    background-color: var(--active) !important;
+}
+.activeMenu{
+    background-color: var(--active) !important;
+}
